@@ -40,7 +40,7 @@ If you can not practice the above We may help you including installed drones, so
 //========================================================================
 //*************** ２.change below for your settings. **************
 //========================================================================
-#define SSID_X    "KDiPhone"   //iPhone
+#define SSID_X    "ABiPhone"   //iPhone
 #define PASS_X    "watanabe3"   //iPhone
 #define IP_X      172,20,10,1     //iPhone 固定。修正必要なし
 //========================================================================
